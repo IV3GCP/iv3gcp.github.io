@@ -1,0 +1,26 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Cosmic_Noise",
+    "description": "",
+    "home_page_url": "https://iv3gcp.github.io",
+    "feed_url": "https://iv3gcp.github.io/feed.json",
+    "user_comment": "",
+    "icon": "https://iv3gcp.github.io/media/website/logo_alter_small.jpg",
+    "author": {
+        "name": "IV3GCP"
+    },
+    "items": [
+        {
+            "id": "https://iv3gcp.github.io/post-1.html",
+            "url": "https://iv3gcp.github.io/post-1.html",
+            "title": "post 1",
+            "author": {
+                "name": "IV3GCP"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-01-29T10:57:39+01:00",
+            "date_modified": "2025-01-29T11:34:34+01:00"
+        }
+    ]
+}
