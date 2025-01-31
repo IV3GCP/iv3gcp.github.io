@@ -14,13 +14,16 @@
             "id": "https://iv3gcp.github.io/post-1.html",
             "url": "https://iv3gcp.github.io/post-1.html",
             "title": "post 1",
+            "summary": "esempio di Post",
+            "content_html": "<p>esempio di Post</p>",
+            "image": "https://iv3gcp.github.io/media/posts/6/icara.jpg",
             "author": {
                 "name": "IV3GCP"
             },
             "tags": [
             ],
             "date_published": "2025-01-29T10:57:39+01:00",
-            "date_modified": "2025-01-29T11:34:34+01:00"
+            "date_modified": "2025-01-31T10:02:42+01:00"
         }
     ]
 }

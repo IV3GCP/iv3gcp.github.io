@@ -3,7 +3,7 @@
     <title>Cosmic_Noise</title>
     <link href="https://iv3gcp.github.io/feed.xml" rel="self" />
     <link href="https://iv3gcp.github.io" />
-    <updated>2025-01-29T11:34:34+01:00</updated>
+    <updated>2025-01-31T10:02:42+01:00</updated>
     <author>
         <name>IV3GCP</name>
     </author>
@@ -16,9 +16,20 @@
         </author>
         <link href="https://iv3gcp.github.io/post-1.html"/>
         <id>https://iv3gcp.github.io/post-1.html</id>
+        <media:content url="https://iv3gcp.github.io/media/posts/6/icara.jpg" medium="image" />
 
         <updated>2025-01-29T10:57:39+01:00</updated>
-            <summary></summary>
-        <content></content>
+            <summary>
+                <![CDATA[
+                        <img src="https://iv3gcp.github.io/media/posts/6/icara.jpg" alt="" />
+                    esempio di Post
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://iv3gcp.github.io/media/posts/6/icara.jpg" class="type:primaryImage" alt="" /></p>
+                <p>esempio di Post</p>
+            ]]>
+        </content>
     </entry>
 </feed>
